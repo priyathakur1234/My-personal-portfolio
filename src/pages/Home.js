@@ -19,7 +19,7 @@ function Home() {
     
           <EmailIcon />
           <div>
-            <a href=" https://mail.google.com/mail/u/0/#inbox">EmailIcon</a>
+            <a href="thepriyathakur1@gmail.com">EmailIcon</a>
           </div>
           <GithubIcon />
           <div>
