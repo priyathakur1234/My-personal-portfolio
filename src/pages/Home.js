@@ -19,7 +19,7 @@ function Home() {
     
           <EmailIcon />
           <div>
-            <a href="thepriyathakur1@gmail.com">EmailIcon</a>
+            <a href={`mailto:${"thepriyathakur1@gmail.com"}`}>EmailIcon</a>
           </div>
           <GithubIcon />
           <div>
